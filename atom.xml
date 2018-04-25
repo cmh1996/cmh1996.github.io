@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-04-25T07:50:46.179Z</updated>
+  <updated>2018-04-25T07:55:34.462Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -21,16 +21,15 @@
     <link href="http://yoursite.com/2018/05/10/%E5%89%8D%E7%AB%AF%E6%95%B0%E6%8D%AE%E6%B5%81%E7%AE%A1%E7%90%86%E5%AE%9E%E7%8E%B0%EF%BC%88%E4%BA%94%EF%BC%89%E2%80%94%E2%80%94Rxjs/"/>
     <id>http://yoursite.com/2018/05/10/前端数据流管理实现（五）——Rxjs/</id>
     <published>2018-05-09T16:00:00.000Z</published>
-    <updated>2018-04-25T07:50:46.179Z</updated>
+    <updated>2018-04-25T07:55:34.462Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="Rxjs"><a href="#Rxjs" class="headerlink" title="Rxjs"></a>Rxjs</h2><p>数据状态管理没有银弹，不论黑猫白猫，抓到老鼠的才是好猫。</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="Rxjs"><a href="#Rxjs" class="headerlink" title="Rxjs"></a>Rxjs</h2><h4 id="——开坑中，稍安勿躁-╯□╰-——"><a href="#——开坑中，稍安勿躁-╯□╰-——" class="headerlink" title="——开坑中，稍安勿躁( ╯□╰ )——"></a>——开坑中，稍安勿躁( ╯□╰ )——</h4><p>数据状态管理没有银弹，不论黑猫白猫，抓到老鼠的才是好猫。</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;Rxjs&quot;&gt;&lt;a href=&quot;#Rxjs&quot; class=&quot;headerlink&quot; title=&quot;Rxjs&quot;&gt;&lt;/a&gt;Rxjs&lt;/h2&gt;&lt;p&gt;数据状态管理没有银弹，不论黑猫白猫，抓到老鼠的才是好猫。&lt;/p&gt;
-
+        &lt;h2 id=&quot;Rxjs&quot;&gt;&lt;a href=&quot;#Rxjs&quot; class=&quot;headerlink&quot; title=&quot;Rxjs&quot;&gt;&lt;/a&gt;Rxjs&lt;/h2&gt;&lt;h4 id=&quot;——开坑中，稍安勿躁-╯□╰-——&quot;&gt;&lt;a href=&quot;#——开坑中，稍安勿躁-╯□╰-——&quot; class=&quot;he
       
     
     </summary>
@@ -49,15 +48,15 @@
     <link href="http://yoursite.com/2018/05/05/%E5%89%8D%E7%AB%AF%E6%95%B0%E6%8D%AE%E6%B5%81%E7%AE%A1%E7%90%86%E5%AE%9E%E7%8E%B0%EF%BC%88%E5%9B%9B%EF%BC%89%E2%80%94%E2%80%94MobX/"/>
     <id>http://yoursite.com/2018/05/05/前端数据流管理实现（四）——MobX/</id>
     <published>2018-05-04T16:00:00.000Z</published>
-    <updated>2018-04-25T07:50:54.221Z</updated>
+    <updated>2018-04-25T07:55:39.000Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="MobX"><a href="#MobX" class="headerlink" title="MobX"></a>MobX</h2>]]></content>
+    <content type="html"><![CDATA[<h2 id="MobX"><a href="#MobX" class="headerlink" title="MobX"></a>MobX</h2><h4 id="——开坑中，稍安勿躁-╯□╰-——"><a href="#——开坑中，稍安勿躁-╯□╰-——" class="headerlink" title="——开坑中，稍安勿躁( ╯□╰ )——"></a>——开坑中，稍安勿躁( ╯□╰ )——</h4>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;MobX&quot;&gt;&lt;a href=&quot;#MobX&quot; class=&quot;headerlink&quot; title=&quot;MobX&quot;&gt;&lt;/a&gt;MobX&lt;/h2&gt;
+        &lt;h2 id=&quot;MobX&quot;&gt;&lt;a href=&quot;#MobX&quot; class=&quot;headerlink&quot; title=&quot;MobX&quot;&gt;&lt;/a&gt;MobX&lt;/h2&gt;&lt;h4 id=&quot;——开坑中，稍安勿躁-╯□╰-——&quot;&gt;&lt;a href=&quot;#——开坑中，稍安勿躁-╯□╰-——&quot; class=&quot;he
       
     
     </summary>
@@ -76,15 +75,15 @@
     <link href="http://yoursite.com/2018/04/30/%E5%89%8D%E7%AB%AF%E6%95%B0%E6%8D%AE%E6%B5%81%E7%AE%A1%E7%90%86%E5%AE%9E%E7%8E%B0%EF%BC%88%E4%B8%89%EF%BC%89%E2%80%94%E2%80%94Vuex/"/>
     <id>http://yoursite.com/2018/04/30/前端数据流管理实现（三）——Vuex/</id>
     <published>2018-04-29T16:00:00.000Z</published>
-    <updated>2018-04-25T07:50:33.778Z</updated>
+    <updated>2018-04-25T07:55:47.191Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="Vuex"><a href="#Vuex" class="headerlink" title="Vuex"></a>Vuex</h2><p>Vuex流程示意图：<br><img src="https://vuex.vuejs.org/zh-cn/images/vuex.png" alt="Vuex流程示意图"></p>]]></content>
+    <content type="html"><![CDATA[<h2 id="Vuex"><a href="#Vuex" class="headerlink" title="Vuex"></a>Vuex</h2><p>Vuex 是一个专为 Vue.js 应用程序开发的状态管理模式。它采用集中式存储管理应用的所有组件的状态，并以相应的规则保证状态以一种可预测的方式发生变化。</p><p>Vuex流程示意图：<br><img src="https://vuex.vuejs.org/zh-cn/images/vuex.png" alt="Vuex流程示意图"></p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;Vuex&quot;&gt;&lt;a href=&quot;#Vuex&quot; class=&quot;headerlink&quot; title=&quot;Vuex&quot;&gt;&lt;/a&gt;Vuex&lt;/h2&gt;&lt;p&gt;Vuex流程示意图：&lt;br&gt;&lt;img src=&quot;https://vuex.vuejs.org/zh-cn/images/vu
+        &lt;h2 id=&quot;Vuex&quot;&gt;&lt;a href=&quot;#Vuex&quot; class=&quot;headerlink&quot; title=&quot;Vuex&quot;&gt;&lt;/a&gt;Vuex&lt;/h2&gt;&lt;p&gt;Vuex 是一个专为 Vue.js 应用程序开发的状态管理模式。它采用集中式存储管理应用的所有组件的状态，并以相应的规则保证
       
     
     </summary>
@@ -103,15 +102,15 @@
     <link href="http://yoursite.com/2018/04/26/%E5%89%8D%E7%AB%AF%E6%95%B0%E6%8D%AE%E6%B5%81%E7%AE%A1%E7%90%86%E5%AE%9E%E7%8E%B0%EF%BC%88%E4%BA%8C%EF%BC%89%E2%80%94%E2%80%94Redux/"/>
     <id>http://yoursite.com/2018/04/26/前端数据流管理实现（二）——Redux/</id>
     <published>2018-04-25T16:00:00.000Z</published>
-    <updated>2018-04-25T07:50:14.094Z</updated>
+    <updated>2018-04-25T07:55:27.485Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="Redux"><a href="#Redux" class="headerlink" title="Redux"></a>Redux</h2>]]></content>
+    <content type="html"><![CDATA[<h2 id="Redux"><a href="#Redux" class="headerlink" title="Redux"></a>Redux</h2><h4 id="——开坑中，稍安勿躁-╯□╰-——"><a href="#——开坑中，稍安勿躁-╯□╰-——" class="headerlink" title="——开坑中，稍安勿躁( ╯□╰ )——"></a>——开坑中，稍安勿躁( ╯□╰ )——</h4>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;Redux&quot;&gt;&lt;a href=&quot;#Redux&quot; class=&quot;headerlink&quot; title=&quot;Redux&quot;&gt;&lt;/a&gt;Redux&lt;/h2&gt;
+        &lt;h2 id=&quot;Redux&quot;&gt;&lt;a href=&quot;#Redux&quot; class=&quot;headerlink&quot; title=&quot;Redux&quot;&gt;&lt;/a&gt;Redux&lt;/h2&gt;&lt;h4 id=&quot;——开坑中，稍安勿躁-╯□╰-——&quot;&gt;&lt;a href=&quot;#——开坑中，稍安勿躁-╯□╰-——&quot; class
       
     
     </summary>
@@ -130,9 +129,9 @@
     <link href="http://yoursite.com/2018/04/22/%E5%89%8D%E7%AB%AF%E6%95%B0%E6%8D%AE%E6%B5%81%E7%AE%A1%E7%90%86%E5%AE%9E%E7%8E%B0%EF%BC%88%E4%B8%80%EF%BC%89%E2%80%94%E2%80%94Flux/"/>
     <id>http://yoursite.com/2018/04/22/前端数据流管理实现（一）——Flux/</id>
     <published>2018-04-21T16:00:00.000Z</published>
-    <updated>2018-04-25T07:50:20.399Z</updated>
+    <updated>2018-04-25T07:55:19.883Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>前端数据流管理现阶段已衍生出三种管理模式，分别是：</p><ul><li>单向数据流派Flux，代表框架有Redux、Vuex。</li><li>响应式的双向绑定流派MVVM，代表框架有MobX。</li><li>响应式的流式流派，代表框架有RxJs。</li></ul><p>整个系列一共有五篇文章，主要介绍了上述三个流派在前端数据流管理上的模式阐述、框架实现，并对它们三者进行了比较。本系列旨在加深对前端数据流的管理的认识，希望对你我都有所帮助(●’◡’●)。</p><h2 id="Flux模式"><a href="#Flux模式" class="headerlink" title="Flux模式"></a>Flux模式</h2>]]></content>
+    <content type="html"><![CDATA[<h2 id="前言"><a href="#前言" class="headerlink" title="前言"></a>前言</h2><p>前端数据流管理现阶段已衍生出三种管理模式，分别是：</p><ul><li>单向数据流派Flux，代表框架有Redux、Vuex。</li><li>响应式的双向绑定流派MVVM，代表框架有MobX。</li><li>响应式的流式流派，代表框架有RxJs。</li></ul><p>整个系列一共有五篇文章，主要介绍了上述三个流派在前端数据流管理上的模式阐述、框架实现，并对它们三者进行了比较。本系列旨在加深对前端数据流的管理的认识，希望对你我都有所帮助(●’◡’●)。</p><h2 id="Flux模式"><a href="#Flux模式" class="headerlink" title="Flux模式"></a>Flux模式</h2><h4 id="——开坑中，稍安勿躁-╯□╰-——"><a href="#——开坑中，稍安勿躁-╯□╰-——" class="headerlink" title="——开坑中，稍安勿躁( ╯□╰ )——"></a>——开坑中，稍安勿躁( ╯□╰ )——</h4>]]></content>
     
     <summary type="html">
     
