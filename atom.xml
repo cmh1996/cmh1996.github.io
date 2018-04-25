@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-04-22T08:49:32.521Z</updated>
+  <updated>2018-04-25T07:35:14.119Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,126 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>前端数据流管理实现（五）——Rxjs</title>
+    <link href="http://yoursite.com/2018/05/10/%E5%89%8D%E7%AB%AF%E6%95%B0%E6%8D%AE%E6%B5%81%E7%AE%A1%E7%90%86%E5%AE%9E%E7%8E%B0%EF%BC%88%E4%BA%94%EF%BC%89%E2%80%94%E2%80%94Rxjs/"/>
+    <id>http://yoursite.com/2018/05/10/前端数据流管理实现（五）——Rxjs/</id>
+    <published>2018-05-09T16:00:00.000Z</published>
+    <updated>2018-04-25T07:35:14.119Z</updated>
+    
+    <content type="html"><![CDATA[<p>数据状态管理没有银弹，不论黑猫白猫，抓到老鼠的才是好猫。</p>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;数据状态管理没有银弹，不论黑猫白猫，抓到老鼠的才是好猫。&lt;/p&gt;
+
+      
+    
+    </summary>
+    
+      <category term="js" scheme="http://yoursite.com/categories/js/"/>
+    
+    
+      <category term="js" scheme="http://yoursite.com/tags/js/"/>
+    
+      <category term="前端数据流" scheme="http://yoursite.com/tags/%E5%89%8D%E7%AB%AF%E6%95%B0%E6%8D%AE%E6%B5%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>前端数据流管理实现（四）——MobX</title>
+    <link href="http://yoursite.com/2018/05/05/%E5%89%8D%E7%AB%AF%E6%95%B0%E6%8D%AE%E6%B5%81%E7%AE%A1%E7%90%86%E5%AE%9E%E7%8E%B0%EF%BC%88%E5%9B%9B%EF%BC%89%E2%80%94%E2%80%94MobX/"/>
+    <id>http://yoursite.com/2018/05/05/前端数据流管理实现（四）——MobX/</id>
+    <published>2018-05-04T16:00:00.000Z</published>
+    <updated>2018-04-25T07:31:47.953Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="js" scheme="http://yoursite.com/categories/js/"/>
+    
+    
+      <category term="js" scheme="http://yoursite.com/tags/js/"/>
+    
+      <category term="前端数据流" scheme="http://yoursite.com/tags/%E5%89%8D%E7%AB%AF%E6%95%B0%E6%8D%AE%E6%B5%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>前端数据流管理实现（三）——Vuex</title>
+    <link href="http://yoursite.com/2018/04/30/%E5%89%8D%E7%AB%AF%E6%95%B0%E6%8D%AE%E6%B5%81%E7%AE%A1%E7%90%86%E5%AE%9E%E7%8E%B0%EF%BC%88%E4%B8%89%EF%BC%89%E2%80%94%E2%80%94Vuex/"/>
+    <id>http://yoursite.com/2018/04/30/前端数据流管理实现（三）——Vuex/</id>
+    <published>2018-04-29T16:00:00.000Z</published>
+    <updated>2018-04-25T07:29:39.451Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="js" scheme="http://yoursite.com/categories/js/"/>
+    
+    
+      <category term="js" scheme="http://yoursite.com/tags/js/"/>
+    
+      <category term="前端数据流" scheme="http://yoursite.com/tags/%E5%89%8D%E7%AB%AF%E6%95%B0%E6%8D%AE%E6%B5%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>前端数据流管理实现（二）——Redux</title>
+    <link href="http://yoursite.com/2018/04/26/%E5%89%8D%E7%AB%AF%E6%95%B0%E6%8D%AE%E6%B5%81%E7%AE%A1%E7%90%86%E5%AE%9E%E7%8E%B0%EF%BC%88%E4%BA%8C%EF%BC%89%E2%80%94%E2%80%94Redux/"/>
+    <id>http://yoursite.com/2018/04/26/前端数据流管理实现（二）——Redux/</id>
+    <published>2018-04-25T16:00:00.000Z</published>
+    <updated>2018-04-25T07:28:14.760Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="js" scheme="http://yoursite.com/categories/js/"/>
+    
+    
+      <category term="js" scheme="http://yoursite.com/tags/js/"/>
+    
+      <category term="前端数据流" scheme="http://yoursite.com/tags/%E5%89%8D%E7%AB%AF%E6%95%B0%E6%8D%AE%E6%B5%81/"/>
+    
+  </entry>
+  
+  <entry>
+    <title>前端数据流管理实现（一）——Flux模式</title>
+    <link href="http://yoursite.com/2018/04/22/%E5%89%8D%E7%AB%AF%E6%95%B0%E6%8D%AE%E6%B5%81%E7%AE%A1%E7%90%86%E5%AE%9E%E7%8E%B0%EF%BC%88%E4%B8%80%EF%BC%89%E2%80%94%E2%80%94Flux/"/>
+    <id>http://yoursite.com/2018/04/22/前端数据流管理实现（一）——Flux/</id>
+    <published>2018-04-21T16:00:00.000Z</published>
+    <updated>2018-04-25T07:27:09.114Z</updated>
+    
+    <content type="html"><![CDATA[<p>前端数据流管理现阶段已衍生出三种管理模式，分别是：</p><ul><li>单向数据流派Flux，代表框架有Redux、Vuex。</li><li>响应式的双向绑定流派MVVM，代表框架有MobX。</li><li>响应式的流式流派，代表框架有RxJs。</li></ul><p>整个系列一共有五篇文章，主要介绍了上述三个流派在前端数据流管理上的模式阐述、框架实现，并对它们三者进行了比较。本系列旨在加深对前端数据流的管理的认识，希望对你我都有所帮助(●’◡’●)。</p><h3 id="Flux模式"><a href="#Flux模式" class="headerlink" title="Flux模式"></a>Flux模式</h3>]]></content>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;前端数据流管理现阶段已衍生出三种管理模式，分别是：&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;单向数据流派Flux，代表框架有Redux、Vuex。&lt;/li&gt;
+&lt;li&gt;响应式的双向绑定流派MVVM，代表框架有MobX。&lt;/li&gt;
+&lt;li&gt;响应式的流式流派，代表框架有RxJs。&lt;/li&gt;
+&lt;
+      
+    
+    </summary>
+    
+      <category term="js" scheme="http://yoursite.com/categories/js/"/>
+    
+    
+      <category term="js" scheme="http://yoursite.com/tags/js/"/>
+    
+      <category term="前端数据流" scheme="http://yoursite.com/tags/%E5%89%8D%E7%AB%AF%E6%95%B0%E6%8D%AE%E6%B5%81/"/>
+    
+  </entry>
   
   <entry>
     <title>CSS世界学习笔记</title>
